@@ -354,3 +354,22 @@ git commit -m "task commit" aws
 git commit -m "task commit" could-computing
 su -i
 sudo -i
+git status
+git add could-computing
+git status
+git log
+git branch feature
+git checkout
+git checkout feature
+git merge feature master
+ll
+touch salesforce oracle
+ll
+git add .
+git status
+git log
+git commit .
+git commit -m "my commit"
+git log -2
+git checkout
+git checkout master

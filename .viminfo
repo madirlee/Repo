@@ -20,14 +20,16 @@
 $leela
 
 # Command Line History (newest to oldest):
+:q!
+|2,0,1696096810,,"q!"
+:q1
+|2,0,1696096806,,"q1"
+:q
+|2,0,1696096801,,"q"
 :wq
 |2,0,1695814952,,"wq"
 :w
 |2,0,1695814948,,"w"
-:q
-|2,0,1695814945,,"q"
-:q!
-|2,0,1695725728,,"q!"
 :w!
 |2,0,1695725636,,"w!"
 :'<,'>W
@@ -75,18 +77,32 @@ $leela
 |3,0,3,1,1,0,1695724977,"To set expiry date to an user : useradd -e yyyy-mm-dd username"
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1695814952,"~/.git/COMMIT_EDITMSG"
+'0  15  0  ~/.git/COMMIT_EDITMSG
+|4,48,15,0,1696096810,"~/.git/COMMIT_EDITMSG"
+'1  1  0  ~/.git/COMMIT_EDITMSG
+|4,49,1,0,1695814952,"~/.git/COMMIT_EDITMSG"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1695814952,"~/.git/COMMIT_EDITMSG"
 
 # Jumplist (newest first):
+-'  15  0  ~/.git/COMMIT_EDITMSG
+|4,39,15,0,1696096810,"~/.git/COMMIT_EDITMSG"
+-'  3  0  ~/.git/COMMIT_EDITMSG
+|4,39,3,0,1696096591,"~/.git/COMMIT_EDITMSG"
+-'  20  0  ~/.git/COMMIT_EDITMSG
+|4,39,20,0,1696096579,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1696096518,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1695814952,"~/.git/COMMIT_EDITMSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/COMMIT_EDITMSG
-	*	1695814948	0
-	"	1	0
-	^	1	1
+	*	1696096806	0
+	"	15	0
+	^	1	0
 	.	1	0
 	+	1	0
+	b	13	15
+	h	14	0
