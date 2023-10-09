@@ -1,0 +1,66 @@
+KB'S :
+
+
+
+KB0051194 : SORVS
+
+
+
+KB0098185 : SORVS for user change
+
+
+
+KB0089775-Sav .exe execution
+
+KB0081008-EDI Execution task
+
+KB0072478-Dummy KB
+
+KB0053302-KB for RUBI
+
+KB0104176 -- KB for RUBI application down on citrix server(ME)
+
+KB0097118 -KB for MQFT transfer Id for COQUI and EDI orders not generated
+
+KB0046450-KB for SAV pet issues resolved by vendor-webline
+
+KB0047219-KB for SAV - Orders Issues
+
+KB0074784--TWS job failure
+
+KB0041887--D drive space issues
+
+KB0052105-SAV - Order differences between SAP and SAV
+
+KB0097092-Sati/Sped vendor related issues.
+
+KB0104407 - User not able to access the sped fiscal application.
+
+Coqui : KB0081074
+
+KB0086375  -- coqui duplicate orders
+
+BO_Refresh : KB0082940
+
+EDI Task Execution : KB0081008
+
+MyRequest User creation - KB0073691 -- KB0103602
+
+Line manager Change :KB0072478
+
+Aging Activity : KB0082939
+                                BO_Refresh : KB0082940
+                                EDI Task Execution : KB0081008
+                                Dummy KB : KB0072478
+                                Ediwin change user password: KB0051198
+                                EDIWIN New user creation : KB0078580
+                                Modify Exchange rate in EDIWIN : KB0092037
+                                AFS RE : KB0078256
+                                Coqui : KB0081074
+                                EDI monitoring Andean: KB0079315
+                                Ediwin Test : KB0086548
+                                AFS New User addition: KB0086998  
+                                FDS Embarques issue :KB0091352
+                                FDS job failure: KB0074784
+                                MyLab deployment KB : KB0090642
+                                EDI Automatic emails : KB0076132
